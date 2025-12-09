@@ -17,7 +17,7 @@ from  langchain_classic.retrievers import ContextualCompressionRetriever
 # ============================================================================
 st.set_page_config(page_title="Live News Intelligence", page_icon="📡", layout="wide")
 
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "Enter Your KEY"
 FUNCTION_ID = "71203149-d3b7-4460-8231-1be2543a1fca"
 GRPC_SERVER = "grpc.nvcf.nvidia.com:443"
 BBC_STREAM_URL = "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
