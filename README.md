@@ -1,6 +1,7 @@
 # Live-Streaming-Data-RAG
 
-## I Built a RAG System That Listens to Live BBC News and Answers Questions About What Happened 10 Minutes Ago
+## I Built a RAG System That Listens to Live BBC News and Answers Questions About What Happened 10 Minutes Ago (read more - https://huggingface.co/blog/RakshitAralimatti/streaming-data-rag)
+
 
 ## The Problem Nobody Talks About in RAG
 
